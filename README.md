@@ -9,8 +9,8 @@ Use functions FindSimpleWithRangeForLoop and FindBinarySearch from the lecture.
 
 |Function | 1000 | 10000 | 100000 | 1000000 | 10000000|
 |----| ---- | ---- | ---- | ---- | ----|
-|Vector construct | | | | | 
-|Set construct | | | | | 
-|FindSimpleWithRangeForLoop | | | | | 
-|FindBinarySearch | | | | | 
-|Set find | | | | | 
+|Vector construct |2031.8 |18686.2 |191695.6 |1860908 |18494894 
+|Set construct |26386.8 |332250.9 |3780011 |42011138 |485179701.5 
+|FindSimpleWithRangeForLoop |11.8 |87.5 |259.6 |225.6 |231.4 
+|FindBinarySearch |8.8 |13.7 |13.2 |12.2 |13.2 
+|Set find |27.8 |38.3 |55.6 |78.1 |58.5 
